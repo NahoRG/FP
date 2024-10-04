@@ -16,3 +16,5 @@
 
 **texto negrita**
 _texto italica_
+
+![Ternurin de ardilla con lentes](https://pin.it/btojiQTM9)
